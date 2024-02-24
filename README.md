@@ -74,3 +74,16 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Itscientgourav/school.com.git
 git push -u origin main
+
+## Daily Push command
+
+git add --single file changes
+git add .  --multile file changes
+git status --show changes files
+git commit -m "first commit"
+git push -u origin main
+
+-- for fetch
+git pull
+
+
